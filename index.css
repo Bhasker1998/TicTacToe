@@ -1,0 +1,51 @@
+                                       /* upper part */
+.header {
+  height: 100px;
+}
+
+.h1 {
+  font-family: 'Abril Fatface', cursive;
+  text-shadow: 2px 4px #515656;
+}
+
+
+.inner {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.inner:hover {
+  background-color: #4CEDED;
+}
+
+.outer {
+  margin-left: 70px;
+}
+
+
+.para {
+  display: none;
+}
+.score {
+  text-align: center;
+}
+
+.winner {
+  text-align: center;
+  font-size: 70px;
+  color: red;
+  font-weight: bold;
+}
+.button {
+  margin-left: 40%;
+  padding: 20px;
+  border-radius: 100px;
+}
+
+.reset {
+  margin-left: 3%;
+}
